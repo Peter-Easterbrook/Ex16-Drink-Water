@@ -65,6 +65,9 @@ h3 {
   background-color: var(--fill-color);
   color: #fff;
 }
+.cup.cup-small:hover {
+  cursor: pointer;
+}
 
 .cups {
   display: flex;
